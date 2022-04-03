@@ -3,72 +3,49 @@
         "id": 1,
         "name": "Winston Emmerson",
         "image": "https://randomuser.me/api/portraits/women/61.jpg",
+        "review": "We sought systematic reviews of text messaging interventions in preventive or curative health care.",
         "ratings": 4
     },
     {
         "id": 2,
         "name": "Noble Ranstead",
         "image": "https://randomuser.me/api/portraits/women/62.jpg",
+        "review": "Computerized text-parsing tools such as LSA allow an objective review of text responses that would be otherwise impossible to standardize.",
         "ratings": 5
     },
     {
         "id": 3,
         "name": "Shurlock Durran",
-        "image": "https://randomuser.me/api/portraits/women/43.jpg",
+        "image": "https://randomuser.me/api/portraits/women/63.jpg",
+        "review": "We sought systematic reviews of text messaging interventions in preventive or curative health care.",
         "ratings": 3
     },
     {
         "id": 4,
         "name": "Merell Kinkaid",
-        "image": "https://randomuser.me/api/portraits/women/33.jpg",
+        "image": "https://randomuser.me/api/portraits/women/64.jpg",
+        "review": "Following a screening of the titles and abstracts, the decision about inclusion/exclusion will be based on the review of full texts and made independently by two reviewers.",
         "ratings": 2
     },
     {
         "id": 5,
         "name": "Kirk Dumberrill",
-        "image": "https://randomuser.me/api/portraits/women/23.jpg",
+        "image": "https://randomuser.me/api/portraits/women/65.jpg",
+        "review": "The problem of opinion fraud detection has been addressed by focusing on the review of text information and by behavioral approaches that utilize the behavior of users.",
         "ratings": 5
     },
     {
         "id": 6,
         "name": "Katie Tibbs",
-        "image": "https://randomuser.me/api/portraits/women/73.jpg",
-        "ratings": 1
+        "image": "https://randomuser.me/api/portraits/women/66.jpg",
+        "review": "In their products, we present a review of text compression algorithms, with particular emphasis on the LZ family algorithms, and present our current research on the family of Star compression algorithms.",
+        "ratings": 4
     },
     {
         "id": 7,
         "name": "Sashenka Hun",
-        "image": "https://randomuser.me/api/portraits/women/64.jpg",
-        "ratings": 3
-    },
-    {
-        "id": 8,
-        "name": "Devonna Winnett",
-        "image": "https://randomuser.me/api/portraits/women/65.jpg",
-        "ratings": 5
-    },
-    {
-        "id": 9,
-        "name": "Leese Loges",
-        "image": "https://randomuser.me/api/portraits/women/66.jpg",
-        "ratings": 3
-    },
-    {
-        "id": 10,
-        "name": "Dov Beslier",
         "image": "https://randomuser.me/api/portraits/women/67.jpg",
-        "ratings": 1
-    },
-    {
-        "id": 11,
-        "name": "Si Darter",
-        "image": "https://randomuser.me/api/portraits/women/68.jpg",
-        "ratings": 2
-    },
-    {
-        "id": 12,
-        "name": "Alexa Erni",
-        "image": "https://randomuser.me/api/portraits/women/69.jpg",
+        "review": "Drive Value Across Customer and Agent Experience with Google Cloud Contact Center AI and Twilio Flex.",
         "ratings": 3
     }
 ]
