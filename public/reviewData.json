@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Winston Emmerson",
+        "image": "https://randomuser.me/api/portraits/women/61.jpg",
+        "ratings": 4
+    },
+    {
+        "id": 2,
+        "name": "Noble Ranstead",
+        "image": "https://randomuser.me/api/portraits/women/62.jpg",
+        "ratings": 5
+    },
+    {
+        "id": 3,
+        "name": "Shurlock Durran",
+        "image": "https://randomuser.me/api/portraits/women/43.jpg",
+        "ratings": 3
+    },
+    {
+        "id": 4,
+        "name": "Merell Kinkaid",
+        "image": "https://randomuser.me/api/portraits/women/33.jpg",
+        "ratings": 2
+    },
+    {
+        "id": 5,
+        "name": "Kirk Dumberrill",
+        "image": "https://randomuser.me/api/portraits/women/23.jpg",
+        "ratings": 5
+    },
+    {
+        "id": 6,
+        "name": "Katie Tibbs",
+        "image": "https://randomuser.me/api/portraits/women/73.jpg",
+        "ratings": 1
+    },
+    {
+        "id": 7,
+        "name": "Sashenka Hun",
+        "image": "https://randomuser.me/api/portraits/women/64.jpg",
+        "ratings": 3
+    },
+    {
+        "id": 8,
+        "name": "Devonna Winnett",
+        "image": "https://randomuser.me/api/portraits/women/65.jpg",
+        "ratings": 5
+    },
+    {
+        "id": 9,
+        "name": "Leese Loges",
+        "image": "https://randomuser.me/api/portraits/women/66.jpg",
+        "ratings": 3
+    },
+    {
+        "id": 10,
+        "name": "Dov Beslier",
+        "image": "https://randomuser.me/api/portraits/women/67.jpg",
+        "ratings": 1
+    },
+    {
+        "id": 11,
+        "name": "Si Darter",
+        "image": "https://randomuser.me/api/portraits/women/68.jpg",
+        "ratings": 2
+    },
+    {
+        "id": 12,
+        "name": "Alexa Erni",
+        "image": "https://randomuser.me/api/portraits/women/69.jpg",
+        "ratings": 3
+    }
+]
