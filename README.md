@@ -36,4 +36,3 @@
 	    - 4 bullet point
     - destructure, file name, component name, custom hooks
     - dashboard with atleast 2 charts with given data with tooltip
-    - npm install recharts --force
