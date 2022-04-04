@@ -1,5 +1,5 @@
 import React from 'react';
-import { Area, AreaChart, Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { Area, AreaChart, Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis } from 'recharts';
 import useCharts from '../../hooks/useCharts';
 import './Analytics.css';
 
