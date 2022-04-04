@@ -8,10 +8,5 @@
         "id": 2,
         "question": "what is semantic tags?",
         "answer": "HTML5 semantic elements support all modern browsers. Generally semantic tags means about to an element call it with it's proper name. which induces with it's prime criteria. Able to define separate parts with it's separate name which previous version of HTML use with classes. Possible combinations are included here. Tags define HTML elements for markups in terms of browser of modern style approach."
-    },
-    {
-        "id": 3,
-        "question": "What is the difference between Inline Block and Block elements?",
-        "answer": "The inline-level elements need no new line is required to start the inline element and this element will only occupy the width as required. Inside the paragraph element <span> is an inline element. Example of inline element: <span> (Span element) <a> (Anchor element) <img> (image element) but using 'Inline-Block' make the inline element to behave like a block element and The block-level element always starts with a new line. Occupies the full width of that line (extending from left to right as much as possible). <div> A block-level element Example of block-level element: <div> (div element) <h1> - <h6> (Heading Element) <p> (paragraph element) <form> (form element). Long story short: inline-block elements contain only require spaces where block elements contain the whole area as needed or not."
     }
 ]
