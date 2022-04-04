@@ -12,7 +12,7 @@
     - Reviews
     - QNA
     - About
-- Site stand up as *Car Review*
+- Site stand up as *Hospital Review*
 - With following *optional catch ups*
     ### 5 to 10 lines questions in blog route:
     - what is context api
