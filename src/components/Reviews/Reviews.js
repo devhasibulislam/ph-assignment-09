@@ -1,9 +1,15 @@
 import React from 'react';
+import useReviews from '../../hooks/useReviews';
+import Review from '../Review/Review';
 
 const Reviews = () => {
+    const [reviews] = useReviews();
     return (
-        <div>
-            <h1 className='text-3xl'>This is Reviews component</h1>
+        <div className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-8 my-8'>
+            {reviews.map(review => <Review
+                key={review.id}
+                review={review}
+            ></Review>)}
         </div>
     );
 };

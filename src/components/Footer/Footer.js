@@ -20,17 +20,17 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="footer-about">
-                    <h4 className='border-b-2 border-b-[#ffd13c] w-16 mb-4 text-xl'>About</h4>
+                    <h4 className='border-b-2 border-b-[#ffd13c] w-12 mb-4 text-xl'>About</h4>
                     <p>Education refers to the discipline that is concerned with methods of teaching and learning in schools or school-like environments.</p>
                 </div>
                 <div className="footer-QNA">
-                    <h4 className='className= border-b-2 border-b-[#ffd13c] w-14 mb-4 text-xl'>QNA</h4>
+                    <h4 className='className= border-b-2 border-b-[#ffd13c] w-16 mb-4 text-xl'>Contact</h4>
                     <p>41/02/01-Pathantola, Dhamrai, Dhaka</p>
                     <a href="tel:+01906315901" className='block font-bold'>+8801906-315901</a>
                     <a href="mailto:hasib143sl@gmail.com" className='block font-bold'>hasib143sl@gmail.com</a>
                 </div>
                 <div className="footer-map">
-                    <h4 className='className= border-b-2 border-b-[#ffd13c] w-12 mb-4 text-xl'>Map</h4>
+                    <h4 className='className= border-b-2 border-b-[#ffd13c] w-8 mb-4 text-xl'>Map</h4>
                     <img src={map} alt="" className='max-w-full w-2/4' />
                 </div>
             </div>

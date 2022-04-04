@@ -2,7 +2,7 @@
 
 ## Assignment 09 essential links:
 1. Private repo link: [Click here](https://github.com/programming-hero-web-course-4/product-analysis-website-hasibulislam999)
-2. Live site link: [Click here](https://github.com/programming-hero-web-course-4/product-analysis-website-hasibulislam999)
+2. Live site link: [Click here](https://product-analysis-website-hasibulislam999.netlify.app/)
 
 ## Brief info about this Assignment 09
 - Dedicated as a **Review Site**
@@ -15,7 +15,7 @@
 - Site stand up as *Car Review*
 - With following *optional catch ups*
     ### 5 to 10 lines questions in blog route:
-    - what is contex api
+    - what is context api
     - what is Symantec tag
     - difference inline block and inline block elements
 
@@ -35,4 +35,4 @@
 	    - live project link
 	    - 4 bullet point
     - destructure, file name, component name, custom hooks
-    - dashboard with atleast 2 charts with given data with tooltip
+    - dashboard with at least 2 charts with given data with tooltip
